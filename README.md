@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Lucas+Lima+Cavalcante.;Fique+à+vontade+%F0%9F%91%8B" alt="Typing SVG" width="100%" />
-</p>
+## Olá! Eu sou Lucas Lima Cavalcante. Fique à vontade 👋
 
 - 🔭 Atualmente não estou trabalhando, mas estou estudando a carreira de DevOps Engineer.
 - 🌱 Atualmente estou estudando Front-end com HTML e CSS.
