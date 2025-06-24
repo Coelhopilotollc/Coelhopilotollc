@@ -11,9 +11,12 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Coelhopilotollc
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+  github_user_name: Coelhopilotollc
+  outputs: |
+    dist/github-contribution-grid-snake.svg
+    dist/github-contribution-grid-snake-dark.svg
+  color_snake: '#000000' # para tema claro
+  color_snake_dark: '#00FF00' # para tema escuro
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
