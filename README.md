@@ -44,6 +44,7 @@
   Soy estudiante de Sistemas de Información en la facultad Estácio de Maceió, Alagoas (AL). Estoy adquiriendo continuamente nuevas habilidades técnicas y personales. Creo que mis mejores cualidades están en las soft skills, y me encanta perfeccionarlas.
 
 </details>
+### 🐍 Meus commits viraram lanche🍔😯:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Coelhopilotollc/Coelhopilotollc/blob/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake eating my contributions" src="https://github.com/Coelhopilotollc/Coelhopilotollc/blob/output/github-contribution-grid-snake.svg" />
