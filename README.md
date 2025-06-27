@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fato divertido: Adoro carros e boas amizades. Estou aberto para conversação. 😉
 
- ![Coelhopilotollc's Streak](https://streak-stats.demolab.com?user=Coelhopilotollc&theme=graywhite&hide_border=true)
+ ![Coelhopilotollc's Streak](https://github-readme-streak-stats-eight.vercel.app?user=Coelhopilotollc&theme=graywhite&hide_border=true)
  ![Coelhopilotollc's Stats](https://github-readme-stats.vercel.app/api?username=Coelhopilotollc&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
  ![Coelhopilotollc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coelhopilotollc&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
