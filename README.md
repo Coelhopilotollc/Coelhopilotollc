@@ -44,6 +44,22 @@
   Soy estudiante de Sistemas de Información en la facultad Estácio de Maceió, Alagoas (AL). Estoy adquiriendo continuamente nuevas habilidades técnicas y personales. Creo que mis mejores cualidades están en las soft skills, y me encanta perfeccionarlas.
 
 </details>
+<details>
+  <summary><strong>🌐 Version Française</strong></summary>
+
+  ## Bonjour ! Je suis Lucas Lima Cavalcante. Bienvenue 👋
+
+  - 🔭 Je ne travaille pas actuellement, mais j’étudie pour devenir Ingénieur DevOps.  
+  - 🌱 J’apprends actuellement le développement Front-end avec HTML et CSS.  
+  - 📫 Me contacter : llcprogram@outlook.com  
+  - 😄 Pronoms : Il/Lui  
+  - ⚡ Fait amusant : J’adore les voitures et les belles amitiés. Toujours ouvert à une discussion. 😉  
+
+  ### Un peu plus sur moi 🫡  
+  Je suis étudiant en Systèmes d'information à la faculté Estácio de Maceió, Alagoas (AL), au Brésil. J’acquiers constamment de nouvelles compétences techniques et relationnelles. Je crois que mes meilleures qualités résident dans les soft skills, et j’aime les perfectionner chaque jour.
+
+</details>
+
 ### 🐍 Meus commits viraram lanche🍔😯:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Coelhopilotollc/Coelhopilotollc/blob/output/github-contribution-grid-snake-dark.svg" />
